@@ -1,0 +1,13 @@
+notgarbage-nescafe-red-cup
+notgarbage-cafez-one-time-cup
+garbage-cafez-one-time-cup
+garbage-tissue
+garbage-cocacola
+notgarbage-cocacola
+garbage-nescafe-red-cup
+garbage-sprite
+notgarbage-one-time-water-cup
+garbage-one-time-water-cup
+notgarbage-sprite
+notgarbage-mum-water-bottle
+garbage-mum-water-bottle
